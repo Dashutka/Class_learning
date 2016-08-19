@@ -1,0 +1,6 @@
+D:\Anton.N\Module3\Class_learning\Class_learning\bin\Debug\Class_learning.exe.config
+D:\Anton.N\Module3\Class_learning\Class_learning\obj\Debug\Class_learning.csprojResolveAssemblyReference.cache
+D:\Anton.N\Module3\Class_learning\Class_learning\bin\Debug\Class_learning.exe
+D:\Anton.N\Module3\Class_learning\Class_learning\bin\Debug\Class_learning.pdb
+D:\Anton.N\Module3\Class_learning\Class_learning\obj\Debug\Class_learning.exe
+D:\Anton.N\Module3\Class_learning\Class_learning\obj\Debug\Class_learning.pdb
